@@ -1,2 +1,2 @@
-# my-first-repository
+# my first repository
 first in class repository.
