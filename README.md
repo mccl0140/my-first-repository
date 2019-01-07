@@ -1,2 +1,3 @@
-# my first repository
-first in class repository.
+# My First Repository
+
+Learning how to use Github.
